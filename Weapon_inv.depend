@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1683923987 source:c:\gitrepos\inventory_weapon\inventory.cpp
+
+1683925179 source:c:\gitrepos\inventory_weapon\main.cpp
+	"Weapons.h"
+	"Player.h"
+	"Inventory.h"
+	<iostream>
+
+1683925274 source:c:\gitrepos\inventory_weapon\player.cpp
+	"Player.h"
+
+1683924624 source:c:\gitrepos\inventory_weapon\weapons.cpp
+
+1683924825 c:\gitrepos\inventory_weapon\weapons.h
+	<string>
+
+1683925566 c:\gitrepos\inventory_weapon\player.h
+	<string>
+
+1683924692 c:\gitrepos\inventory_weapon\inventory.h
+
