@@ -10,7 +10,7 @@ public:
 
 
 private:
-    std::string name_;
+    std::string title_;
 };
 
 class Knife : public Weapon {
